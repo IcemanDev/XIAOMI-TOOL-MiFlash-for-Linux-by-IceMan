@@ -11,3 +11,7 @@ Information files .sh:
 flash_all.sh : Wipes everything
 flash_all_except_storage.sh : Wipes everything except internal storage
 flash_all_except_data_storage.sh : wipes everything except apps data and storage
+
+Backup firmware:
+1- Restart the device in TWRP mode;
+2- Type "2" to start backup and end operations by pressing any key;
