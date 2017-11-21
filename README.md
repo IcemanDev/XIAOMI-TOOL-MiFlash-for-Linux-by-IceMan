@@ -1,4 +1,5 @@
 # XIAOMI-TOOL-MiFlash-for-Linux-by-IceMan
+Warning! you need to install and configure well adb and fastboot for Linux
 
 1- Restart the device in fastboot mode;
 2- Connect the device to the PC via USB cable;
