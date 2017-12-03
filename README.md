@@ -1,5 +1,4 @@
 # XIAOMI-TOOL-MiFlash-for-Linux-by-IceMan
-Warning! you need to install and configure well adb and fastboot for Linux
 
 FLASH Firmware:
 1- Restart the device in fastboot mode;
